@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.blackmc.blackguilds.AppTest" time="0.157" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds\target\test-classes;c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds\target\classes;C:\Users\Foxyg3n\.m2\repository\org\spigotmc\spigot-api\1.16.2-R0.1-SNAPSHOT\spigot-api-1.16.2-R0.1-SNAPSHOT.jar;C:\Users\Foxyg3n\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Foxyg3n\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Foxyg3n\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Foxyg3n\.m2\repository\net\md-5\bungeecord-chat\1.16-R0.3\bungeecord-chat-1.16-R0.3.jar;C:\Users\Foxyg3n\.m2\repository\org\yaml\snakeyaml\1.26\snakeyaml-1.26.jar;C:\Users\Foxyg3n\.m2\repository\net\prosavage\factionsx\FactionsX\1.0.8-RC\FactionsX-1.0.8-RC.jar;C:\Users\Foxyg3n\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Foxyg3n\.m2\repository\com\github\MilkBowl\VaultAPI\1.7\VaultAPI-1.7.jar;C:\Users\Foxyg3n\.m2\repository\org\bukkit\bukkit\1.13.1-R0.1-SNAPSHOT\bukkit-1.13.1-R0.1-SNAPSHOT.jar;C:\Users\Foxyg3n\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Foxyg3n\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Warsaw"/>
+    <property name="user.country.format" value="US"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.boot.library.path" value="C:\Progra~1\Java\jdk-14.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Foxyg3n\AppData\Local\Temp\surefire8872849374596595292\surefirebooter5755666195862084242.jar C:\Users\Foxyg3n\AppData\Local\Temp\surefire8872849374596595292 2020-12-17T11-09-52_112-jvmRun1 surefire8268872362805594914tmp surefire_016589247798167727158tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds\target\test-classes;c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds\target\classes;C:\Users\Foxyg3n\.m2\repository\org\spigotmc\spigot-api\1.16.2-R0.1-SNAPSHOT\spigot-api-1.16.2-R0.1-SNAPSHOT.jar;C:\Users\Foxyg3n\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Foxyg3n\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Foxyg3n\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Foxyg3n\.m2\repository\net\md-5\bungeecord-chat\1.16-R0.3\bungeecord-chat-1.16-R0.3.jar;C:\Users\Foxyg3n\.m2\repository\org\yaml\snakeyaml\1.26\snakeyaml-1.26.jar;C:\Users\Foxyg3n\.m2\repository\net\prosavage\factionsx\FactionsX\1.0.8-RC\FactionsX-1.0.8-RC.jar;C:\Users\Foxyg3n\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Foxyg3n\.m2\repository\com\github\MilkBowl\VaultAPI\1.7\VaultAPI-1.7.jar;C:\Users\Foxyg3n\.m2\repository\org\bukkit\bukkit\1.13.1-R0.1-SNAPSHOT\bukkit-1.13.1-R0.1-SNAPSHOT.jar;C:\Users\Foxyg3n\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Foxyg3n\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Foxyg3n"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Progra~1\Java\jdk-14.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Foxyg3n\AppData\Local\Temp\surefire8872849374596595292\surefirebooter5755666195862084242.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="user.name" value="Foxyg3n"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Foxyg3n\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Foxyg3n\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="user.dir" value="c:\Users\Foxyg3n\Desktop\Programming\MinecraftJavaPlugins\BlackGuilds\BlackGuilds"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="en"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Progra~1\Java\jdk-14.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-14.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\System32;C:\Program Files\Git\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-14.0.2\bin;C:\Users\Foxyg3n\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Foxyg3n\AppData\Local\Programs\Python\Python38-32\;C:\Windows\System32;C:\Users\Foxyg3n\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\Git\bin;D:\Programs\IntelliJ IDEA Community Edition 2020.2.3\bin;;C:\Users\Foxyg3n\.dotnet\tools;C:\Program Files\nodejs;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.blackmc.blackguilds.AppTest" time="0.003"/>
+</testsuite>

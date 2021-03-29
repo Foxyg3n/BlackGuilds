@@ -1,0 +1,30 @@
+main: com.blackmc.blackguilds.App
+name: BlackGuilds
+version: 1.0
+api-version: 1.16
+depend: [Factions]
+description: BlackGuilds is a plugin for managing guilds on BlackMc Guild server.
+
+commands:
+  blackguilds:
+    aliases: [bc]
+    description: BlackGuilds command.
+    usage: <command> <options>
+  raid:
+    aliases: [rajd]
+    description: Raid command.
+    usage: <command> <options>
+  skarbiec:
+    aliases: [vault]
+    description: Skarbiec gildii
+    usage: <command>
+  sprawdzskarbiec:
+    permission: op
+    aliases: [checkvault]
+    usage: <command> <player>
+    description: Sprawdza skarbiec gildii danego gracza
+  ulepszskarbiec:
+    permission: op
+    aliases: [upgradevault]
+    usage: <command> <player> <number>
+    description: Ulepsza skarbiec gildii danego gracza
